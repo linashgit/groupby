@@ -3,7 +3,7 @@ import numpy
 import os
 
 if __name__ == '__main__':
-    print('go')
+    print('gogo')
     
     # 取得資料位置
     wdpath = os.getcwd()
